@@ -13,6 +13,8 @@ The provided dataframe had 4 columns ("Country", "Year", "Life expectancy at bir
 
 ### Data Sorting
 
+To facilitate working with the columns, "Life Expectancy at birth (years)" column was renamed as "LEB_years".
+
 To have a better access to visualization tools, data was sorted by the following criteria:
 
 * Filtered by **country**
